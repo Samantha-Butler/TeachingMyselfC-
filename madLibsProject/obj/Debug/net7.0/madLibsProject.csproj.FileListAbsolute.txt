@@ -1,0 +1,14 @@
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\bin\Debug\net7.0\madLibsProject.exe
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\bin\Debug\net7.0\madLibsProject.deps.json
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\bin\Debug\net7.0\madLibsProject.runtimeconfig.json
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\bin\Debug\net7.0\madLibsProject.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\bin\Debug\net7.0\madLibsProject.pdb
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.AssemblyInfoInputs.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.AssemblyInfo.cs
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.csproj.CoreCompileInputs.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\refint\madLibsProject.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.pdb
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\madLibsProject.genruntimeconfig.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\madLibsProject\obj\Debug\net7.0\ref\madLibsProject.dll

@@ -1,0 +1,14 @@
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.AssemblyInfoInputs.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.AssemblyInfo.cs
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.csproj.CoreCompileInputs.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\bin\Debug\net7.0\PenceConverter.exe
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\bin\Debug\net7.0\PenceConverter.deps.json
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\bin\Debug\net7.0\PenceConverter.runtimeconfig.json
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\bin\Debug\net7.0\PenceConverter.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\bin\Debug\net7.0\PenceConverter.pdb
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\refint\PenceConverter.dll
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.pdb
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\PenceConverter.genruntimeconfig.cache
+C:\Users\frenz\Desktop\Sam\Github\TeachingMyselfC#\PenceConverter\obj\Debug\net7.0\ref\PenceConverter.dll
